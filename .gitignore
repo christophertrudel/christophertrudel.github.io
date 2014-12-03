@@ -8,3 +8,7 @@ Thumbs.db
 
 .rbenv-version
 .rvmrc
+
+# text editor project files
+*.sublime-project
+*.sublime-workspace

@@ -1,7 +1,7 @@
 christophertrudel.github.io
 ===========================
 
-My Blog http://christophertrudel.com
+My Blog http://blog.christophertrudel.com
 
 # Jekyll-Bootstrap
 
